@@ -23,13 +23,18 @@ npm -v
 
 ```
 # リポジトリのクローン
-git clone https://github.com/hirotaka42/Hackathon_Cookingood.git
+git clone https://github.com/hirotaka42/Hackathon_CookinGood.git
 cd Hackathon_Cookingood
 # or
-ghq get https://github.com/hirotaka42/Hackathon_Cookingood.git
+ghq get https://github.com/hirotaka42/Hackathon_CookinGood.git
 
 # 実行
 cd ./cookingood
+
+# モジュールのインストール
+npm install
+
+# 起動
 npm start
 
 # open http://localhost:3000
