@@ -8,7 +8,7 @@ const UsserHome = () => {
         <div>
             <h2>UserHome</h2>
             {/* <CookingTimer /> */}
-            <Timer duration={10} />
+            <Timer duration={10} shouldRepeat={true} delay={0.3} />
             <CookingMenu />
         </div>
     )
