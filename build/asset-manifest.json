@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Hackathon-CookinGood/static/css/main.52c3c1d5.css",
+    "main.js": "/Hackathon-CookinGood/static/js/main.ee2afa37.js",
+    "static/js/787.12e8be48.chunk.js": "/Hackathon-CookinGood/static/js/787.12e8be48.chunk.js",
+    "static/media/kit2_001.png": "/Hackathon-CookinGood/static/media/kit2_001.a9d44ac688a15fb57b62.png",
+    "index.html": "/Hackathon-CookinGood/index.html",
+    "main.52c3c1d5.css.map": "/Hackathon-CookinGood/static/css/main.52c3c1d5.css.map",
+    "main.ee2afa37.js.map": "/Hackathon-CookinGood/static/js/main.ee2afa37.js.map",
+    "787.12e8be48.chunk.js.map": "/Hackathon-CookinGood/static/js/787.12e8be48.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52c3c1d5.css",
+    "static/js/main.ee2afa37.js"
+  ]
+}
