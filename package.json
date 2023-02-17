@@ -1,6 +1,8 @@
 {
   "name": "cookingood",
   "version": "0.1.0",
+  "main": "dist/index.js",
+  "description": "",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",

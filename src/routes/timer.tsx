@@ -12,18 +12,6 @@ type TimeProps = {
 
 };
 
-// const renderTime = ({ remainingTime }: { remainingTime: number }) => {
-//     if (remainingTime === 0) {
-//         return <div>Time's up!</div>;
-//     }
-
-//     return (
-//         <div className="timer">
-//             <div className="value">{remainingTime}</div>
-//         </div>
-//     );
-// };
-
 const RenderTime: React.FC<Props> = ({ remainingTime }) => {
     const currentTime = useRef(remainingTime);
     const prevTime = useRef<number | null>(null);
